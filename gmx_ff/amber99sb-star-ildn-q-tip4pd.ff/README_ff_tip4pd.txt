@@ -16,3 +16,5 @@ Adapted the following files in the force field:
 - Copied tip4p2005.gro from FF amber99sb*-ildn (amber99sb*-ildn-q did not have that water model by default); this needs to be called by gmx solvate -cs
 - Added line for tip4pd in watermodels.dat
 - modified ion parameters
+
+pSer has been added
